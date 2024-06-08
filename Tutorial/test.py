@@ -5,7 +5,7 @@ import tkinter.font as tkFont
 # window ie screen
 window = tk.Tk()
 # Create a font Object
-fonnt = tkFont.font(family="Aladin", size=16, weigth="bold", slant="italic")
+fonnt = tkFont.Font(family="Aladin", size=16, weigth="bold", slant="italic")
 window.title('Demo App')
 window.geometry('800x400') # geometry.(widthxheight)
 #label = tk.Label(master = window, text="Hello Moniaar", font=("Aladin", 16, "bold"))

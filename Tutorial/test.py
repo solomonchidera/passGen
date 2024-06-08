@@ -10,7 +10,7 @@ window = tk.Tk()
 window.title('Demo App')
 # Window size/ Screen size
 window.geometry('800x400') # geometry.(widthxheight)
-label = tk.Label(master = window, text="Hello Lily", font=("Aladin", 16, "bold", slant="italics"))
+label = tk.Label(master = window, text="Hello Lily", font=("Aladin", 16, "bold"))
 #label = tk.Label(window, text="Hell World", font=fonnt)
 label.pack()
 

@@ -7,7 +7,7 @@ window = tk.Tk()
 # Create a custom font Object
 #fonnt = tkFont.Font(family="Helvetica", size=16, weigth="bold", slant="italic")
 # Add title to your app
-window.title('Demo App')
+window.title('Password Generator')
 # Window size/ Screen size
 window.geometry('800x400') # geometry.(widthxheight)
 label = tk.Label(master = window, text="Hello Lily", font=("Aladin", 16, "bold"))

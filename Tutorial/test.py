@@ -10,7 +10,7 @@ window = tk.Tk()
 window.title('Password Generator')
 # Window size/ Screen size
 window.geometry('800x400') # geometry.(widthxheight)
-label = tk.Label(master = window, text="Hello Lily", font=("Aladin", 16, "bold"))
+label = tk.Label(master = window, text="Password Generator", font=("calibri", 16, "bold"))
 #label = tk.Label(window, text="Hell World", font=fonnt)
 label.pack()
 

@@ -1,1 +1,1 @@
-tutorial of tkinter
+tutorial of tkinter application
